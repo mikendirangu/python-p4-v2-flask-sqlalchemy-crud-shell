@@ -23,3 +23,7 @@ db.init_app(app)
 
 if __name__ == '__main__':
     app.run(port=5555, debug=True)
+
+
+
+# run the Flask application on port 5555 with debug mode enabled
